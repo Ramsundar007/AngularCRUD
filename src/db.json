@@ -1,0 +1,40 @@
+{
+  "employee": [
+    {
+      "firstname": "Ram",
+      "lastname": "Sundar",
+      "email": "ramsundarmsd02@gmail.com",
+      "dob": "2000-10-31T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "google",
+      "experience": 1,
+      "package": 12,
+      "id": "c775"
+    },
+    {
+      "firstname": "shenbaga",
+      "lastname": "raj",
+      "email": "abcd@gmail.com",
+      "dob": "2000-10-02T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "amazon",
+      "experience": 2,
+      "package": 12,
+      "id": "c20a"
+    },
+    {
+      "firstname": "seeni",
+      "lastname": "vasan",
+      "email": "seeni@gmail.com",
+      "dob": "2000-06-05T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "amazon",
+      "experience": 2,
+      "package": 12,
+      "id": "ec71"
+    }
+  ]
+}
